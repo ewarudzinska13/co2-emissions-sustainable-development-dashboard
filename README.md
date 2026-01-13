@@ -144,8 +144,3 @@ Created as part of advanced Business Intelligence coursework at the University o
 - Spatial data analysis
 - Economic and environmental data interpretation
 
----
-
-**Author**: Dominik Warudzinski  
-**Institution**: University of Warsaw, Faculty of Economic Sciences  
-**Year**: 2023
